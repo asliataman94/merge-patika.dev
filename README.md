@@ -1,4 +1,4 @@
-# Merge-Sort-Project
+# Merge Sort Projesi
 Bu bir [www.patika.dev](https://www.patika.dev) çalışmasıdır.
 
 [16, 21, 11, 8, 12, 22]
